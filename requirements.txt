@@ -1,0 +1,19 @@
+# FastAPI and web server
+fastapi>=0.95.0
+uvicorn>=0.22.0
+pydantic>=1.10.0
+python-dotenv>=0.21.0
+
+# HTTP client
+httpx>=0.23.3
+
+# RSS feed parsing
+feedparser>=6.0.10
+
+# HTML parsing
+beautifulsoup4>=4.11.1
+lxml>=4.9.2
+
+# Utilities
+python-dateutil>=2.8.2
+aiocache>=0.12.0
